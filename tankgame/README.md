@@ -1,8 +1,7 @@
-# csc413-tankgame
+# tankgame
 
-## Student Name  :Sawara Bhattarai
-## Student ID    :918575273
-## Student email :sbhattarai@mail.sfsu.edu
+##  Name:Sawara Bhattarai
+## Email :bhattaraisawara15@gmail.com
 
 
 ## src folder is to be used to store source code only.
